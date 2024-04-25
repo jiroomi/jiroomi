@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jiroomi
 - 👀 I’m interested in learning new things and easily grasp it 
-- 🌱 I’m currently learning programming
+- 🌱 I’m currently learning programming at Addis Ababa University institute of Technology 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...email_Me
 
